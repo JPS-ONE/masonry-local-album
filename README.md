@@ -2,7 +2,7 @@
 
 A responsive, lazy-loading image gallery with a masonry grid layout. The gallery efficiently loads images as you scroll, providing a smooth and seamless browsing experience. Perfect for displaying portfolios, photo collections, or product showcases.
 
-![Demo](https://jps-one.github.io/masonry-local-album/)
+[Demo](https://jps-one.github.io/masonry-local-album/)
 
 ## 🚀 Features
 
