@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Masonry Gallery with Vanilla JS</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <h1>My Album</h1>
+        </header>
+        <main>
+            <section class="gallery" id="gallery" aria-label="Photo gallery"></section>
+            <div class="popup" id="popup" aria-hidden="true" tabindex="-1" role="dialog">
+                <button id="closePopup" aria-label="Close image">&times;</button>
+                <img src="" alt="Expanded image" id="popupImage">
+            </div>
+        </main>
+    </body>
+    <script src="script.js"></script>
+</html>
